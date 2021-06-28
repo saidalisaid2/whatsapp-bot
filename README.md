@@ -23,7 +23,7 @@
  
  [Trakteer](https://trakteer.id/arugabot)
 
-### Simple Method
+        ### Simple Method
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
