@@ -22,7 +22,16 @@
  <summary>🥟 Help me!</summary>
  
  [Trakteer](https://trakteer.id/arugabot)
- 
+
+### Simple Method
+  
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/saidalisaid2/JulieMwol)
+     </div>
+
+
+
 </details>
 
 ini semua gratis, jangan pelit ⭐️ ya :D
